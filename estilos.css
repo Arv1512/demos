@@ -1,14 +1,6 @@
 body {
   font-family: 'Raleway', sans-serif;
   padding-top: 65px;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-
-}
-
-#site-content {
-  flex: 1;
 }
 
 body .container-fluid {
